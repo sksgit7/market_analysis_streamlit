@@ -41,8 +41,8 @@ os.makedirs(LOG_DIR, exist_ok=True)
 APP_LOG_FILE = os.path.join(LOG_DIR, 'app_activity.log')
 
 def log_button_click(button_name):
-    from datetime import datetime, timedelta
-    ist_time = datetime.utcnow() + timedelta(hours=5, minutes=30)
+    from datetime import datetime, timedelta, timezone
+    ist_time = datetime.now(timezone.utc) + timedelta(hours=5, minutes=30)
     msg = f"[BUTTON CLICK] '{button_name}' triggered at {ist_time.strftime('%Y-%m-%d %H:%M:%S')} IST\n"
     print(msg.strip())
     with open(APP_LOG_FILE, 'a', encoding='utf-8') as f:
