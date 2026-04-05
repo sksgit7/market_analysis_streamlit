@@ -1,0 +1,32 @@
+id,sector_name,description
+1,Auto,Automobile manufacturers and auto ancillary businesses.
+2,Aviation,Airlines airport operators and aviation services (IndiGo SpiceJet).
+4,Capital Market,Stock exchanges depositories brokerages and capital market operators.
+5,Cement,Cement manufacturing and building materials (UltraTech Ambuja).
+6,Chemicals,Specialty chemicals industrial chemicals and agrochemicals.
+7,Commodities,Companies involved in raw materials like oil gas metals and agricultural products.
+8,CPSE,Central Public Sector Enterprises (Government owned central entities).
+9,Energy,Power generation transmission and energy utility companies.
+10,Fertilizer,Fertilisers agro-infrastructure and soil nutrients (Chambal GNFC).
+11,Financial Services,Non-banking financial companies (NBFCs) insurance and asset management.
+12,FMCG,Fast-Moving Consumer Goods (packaged foods beverages toiletries).
+13,Healthcare,Hospitals diagnostics centers and medical services (Apollo Hospitals).
+14,Consumption,Companies dependent on domestic consumption like consumer durables and retail.
+15,Defence,Defense equipment manufacturing and aerospace companies.
+16,Manufacturing,Companies engaged in manufacturing processes across various industries.
+17,Tourism & Hospitality,Hospitality travel hotels and tourism-related services.
+18,Infrastructure,Construction engineering and infrastructure development companies.
+19,IT,Information Technology and software services companies.
+20,Media,Broadcasting entertainment publishing and media networks.
+21,Metal,Mining metallurgy and metal producing companies (Steel Aluminium).
+22,MNC,Multinational corporations operating in India.
+23,Oil & Gas,Petroleum natural gas exploration refining and distribution.
+24,Pharma,Pharmaceuticals healthcare and drug manufacturing companies.
+25,Private Bank,Privately owned banking and financial institutions.
+26,PSE,Public Sector Enterprises (government-owned companies across various sectors).
+27,PSU Bank,Public Sector Undertaking Banks (government-owned banks like SBI PNB).
+28,Railway,Railway infrastructure coach manufacturing and leasing (RVNL IRCON IRFC).
+29,Realty,Real estate developers housing and commercial properties.
+30,Services Sector,Broad services including logistics shipping and transport.
+31,Telecom,Mobile network operators and tower infrastructure (Airtel Jio).
+32,Textile,Apparel textile manufacturing and spinning (Raymond Vardhman).

@@ -1,0 +1,11 @@
+id,company_id,msg_timestamp,exec_timestamp,msg_summary,impact
+1,6,2026-04-02 18:09:41,2026-04-03 12:04:01,Bank of India Q4 Business Update: Global Business up 14.53% YoY,Positive
+2,5,2026-04-02 18:32:25,2026-04-03 12:04:01,IndiGo February market share at 63.1% vs 63.6% in January,Negative
+3,4,2026-04-02 18:32:34,2026-04-03 12:04:01,"Apollo Hospitals Enterprise: CO approves establishment of multi-speciality hospital at Dwarka, New Delhi",Positive
+4,4,2026-04-04 11:54:34,2026-04-04 14:36:51,"NCLT approves composite scheme of arrangement involving Apollo Healthco, Keimed, and Apollo Healthtech",Positive
+5,8,2026-04-04 11:55:03,2026-04-04 14:36:51,"Loans & Advances grew 20% YoY to ₹2,90,362 crores, Customer Deposits increased 17.2% YoY to ₹2,84,327 crores",Positive
+6,7,2026-04-04 11:58:52,2026-04-04 14:36:51,"Retail disbursements of ~₹24,080 crores for Q4 FY26, up 62% Y-O-Y, Retail loan book grows to ~₹1,19,550 crores, up 26% Y-O-Y",Positive
+7,9,2026-04-04 11:56:17,2026-04-04 14:36:51,"Record production numbers for Q4 and FY26, highest ever annual aluminium and alumina production, Q4 silver production up 11% QoQ",Positive
+8,7,2026-04-04 11:58:52,2026-04-05 10:36:03,"L&T Finance reports retail disbursements of ~₹24,080 crores for Q4 FY26, up 62% Y-O-Y",Positive
+9,6,2026-04-05 09:31:14,2026-04-05 10:36:03,"Bank of India global business up 14.5% Y-O-Y to ₹16.98 lakh cr, deposits up 13.6%, advances up 15.7%",Positive
+10,11,2026-04-05 09:31:14,2026-04-05 10:36:03,"Indian Bank total business up 13.1% to ₹14.98 lakh cr, deposits up 12.6%, advances up 13.6%",Positive

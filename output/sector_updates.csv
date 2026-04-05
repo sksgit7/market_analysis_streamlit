@@ -1,0 +1,41 @@
+﻿id,sector_id,is_stock,msg_timestamp,exec_timestamp,msg_summary,impact
+1,1,1,2026-04-02 18:05:12,2026-04-03 12:04:26,TATAMOTORS PV | JAGUAR LAND ROVER SEES A 61% INCREASE IN Q4 SALES,Positive
+2,1,1,2026-04-02 18:07:25,2026-04-03 12:04:26,MAHINDRA | Mahindra & Mahindra announces an increase in prices of up to 2.5% for its ICE SUV and CV range,Positive
+3,2,1,2026-04-02 18:32:25,2026-04-03 12:04:26,AVIATION UPDATE | DGCA | IndiGo February market share at 63.1% vs 63.6% in January,Positive
+4,21,1,2026-04-02 18:09:34,2026-04-03 12:04:26,"Sambhv Steel – Q4 Business Update | Total Volume: 1,07,785 tons ↑17.6% YoY",Positive
+5,27,1,2026-04-02 18:09:41,2026-04-03 12:04:26,Bank of India – Q4 Business Update | Global Business: ₹16.98 L Cr ↑14.53% YoY,Positive
+6,25,1,2026-04-02 18:34:51,2026-04-03 12:04:26,"CSBBank Q4 Update; | Total Deposits Up 20% At `44,246 Cr Vs `36,861 Cr (YoY)",Positive
+7,13,1,2026-04-02 18:32:47,2026-04-03 12:04:26,"APOLLO HOSPITALS ENTERPRISE: | CO APPROVES ESTABLISHMENT OF MULTI-SPECIALITY HOSPITAL AT DWARKA, NEW DELHI",Positive
+8,19,1,2026-04-02 18:32:31,2026-04-03 12:04:26,"3i Infotech Ltd – Order Win Update | Order Value: ₹1.63 Cr ($1,75,000)",Positive
+9,13,1,2026-04-02 18:36:11,2026-04-03 12:04:26,Krishna Institute of Medical Sciences (KIMS) – O&M Deal Update for Avitis Super Speciality Hospital,Positive
+10,19,1,2026-04-02 18:36:14,2026-04-03 12:04:26,AAA Technologies Ltd – Order Win Update for Application Security Audit & Compliance Services,Positive
+11,9,1,2026-04-02 18:36:16,2026-04-03 12:04:26,REC Limited – Director (Finance) Appointment Update,Positive
+12,28,1,2026-04-02 18:36:18,2026-04-03 12:04:26,Rail Vikas Nigam Ltd (RVNL) – Order Win Update for railway electrification project,Positive
+13,0,0,2026-04-02 18:39:10,2026-04-03 12:04:26,IMF reports US GDP growth at 2% by 2025,Positive
+14,0,0,2026-04-02 18:39:13,2026-04-03 12:04:26,IMF reports US inflation remained stable in 2025,Positive
+15,1,1,2026-04-02 18:40:28,2026-04-03 12:04:26,Tesla extends decline to 3.2% as 1Q deliveries disappoint,Negative
+16,27,1,2026-04-02 18:41:48,2026-04-03 12:04:26,PNB Q4 business update with domestic advances up 11.8% YoY,Positive
+17,24,1,2026-04-04 11:54:14,2026-04-04 15:03:02,Senores Pharmaceuticals announces strategic joint venture in the U.S.,Positive
+18,13,1,2026-04-04 11:54:34,2026-04-04 15:03:02,Apollo Hospitals Enterprise announces NCLT approval for composite scheme of arrangement,Positive
+19,12,1,2026-04-04 11:54:54,2026-04-04 15:03:02,Avenue Supermarts Limited reports Q4 FY26 standalone revenue,Positive
+20,25,1,2026-04-04 11:55:03,2026-04-04 15:03:02,IDFC First Bank reports loan and deposit growth,Positive
+21,21,1,2026-04-04 11:56:17,2026-04-04 15:03:02,Vedanta Ltd announces record production numbers for Q4 and FY26,Positive
+22,29,1,2026-04-04 11:56:06,2026-04-04 15:03:02,Prestige Estates Projects Limited launches new township project,Positive
+23,11,1,2026-04-04 11:58:52,2026-04-04 15:03:02,L&T Finance reports retail disbursements and loan book growth,Positive
+24,9,1,2026-04-04 11:55:15,2026-04-04 15:03:02,Vikran Engineering Ltd receives orders for power distribution enhancement program,Positive
+25,2,1,2026-04-05 08:05:11,2026-04-05 10:49:30,"Four airports in Italy impose restrictions on refuelling, Iran fires missiles at Israel, Kuwait after Trump 48-hour ultimatum, Iran launched 79 drones and missiles at the UAE, affecting the Aviation sector",Negative
+26,23,1,2026-04-05 09:20:09,2026-04-05 10:49:30,"Average diesel prices have risen above $8 per gallon in San Francisco due to the conflict, affecting the Oil & Gas sector",Negative
+27,27,1,2026-04-05 09:31:14,2026-04-05 10:49:30,"Punjab National Bank (PNB), Bank of India, Indian Bank, and Central Bank of India report strong Q4 updates with advances and deposits up, affecting the PSU Bank sector",Positive
+28,25,1,2026-04-05 09:31:14,2026-04-05 10:49:30,"HDFC Bank reports advances up 12% and deposit up 14.4%, CSB Bank reports gross advances up 27% and deposits up 20%, affecting the Private Bank sector",Positive
+29,9,1,2026-04-05 08:05:06,2026-04-05 10:49:30,"Iranian drone attacks cause damage at Kuwait power and water plants, affecting the Energy sector",Negative
+30,0,0,2026-04-05 08:05:06,2026-04-05 10:49:30,"Conflict between Iran and the US, with Trump using stealth missiles and Iran launching drones and missiles, has broad macro implications",Negative
+31,2,0,2026-04-05 10:46:00,2026-04-05 11:41:33,"Iran launched 79 drones and missiles at the UAE, including 23 ballistic ones, which may impact the aviation sector, including airlines such as IndiGo.",Negative
+32,21,0,2026-04-05 10:11:40,2026-04-05 11:41:33,"Mining work in abocp mine under block-ii has been stopped, which may affect metal companies such as those involved in steel and aluminum production.",Negative
+33,23,0,2026-04-05 11:14:16,2026-04-05 11:41:33,"An Indian LPG tanker, Green Asha, is transiting through the Strait of Hormuz, which may impact the oil and gas sector.",Negative
+34,0,0,2026-04-05 10:46:46,2026-04-05 11:41:33,"Singapore has attracted massive fund flows, with approximately USD14 billion per month pouring in from Indonesia, which may have a broad macro impact on the economy.",Positive
+35,15,0,2026-04-05 10:46:01,2026-04-05 11:41:33,"US aircraft was downed in Isfahan province, and US President Donald Trump confirmed the rescue of 2 pilots, which may impact the defense sector.",Negative
+36,31,0,2026-04-05 11:14:16,2026-04-05 11:41:33,"An Indian LPG tanker, Green Asha, is transiting through the Strait of Hormuz, which may also impact the telecom sector, including mobile network operators such as Airtel and Jio, due to potential disruptions in global trade and shipping.",Negative
+37,2,1,2026-04-05 11:39:54,2026-04-05 12:20:20,"Airlines, including IndiGo, are cancelling flights due to jet fuel shortages spreading globally, with a Bahrain oil depot on fire.",Negative
+38,23,1,2026-04-05 11:39:54,2026-04-05 12:20:20,"Bahrain oil depot is on fire, leading to jet fuel shortages and flight cancellations.",Negative
+39,28,1,2026-04-05 11:26:07,2026-04-05 12:20:20,Indian Railways has approved a Rs 398.36 crores optical fibre cable backbone project for Ahmedabad and Ratlam divisions.,Positive
+40,0,0,2026-04-05 11:39:56,2026-04-05 12:20:20,"US-Europe alliance is at a breaking point over the Iran war, with President Trump considering backing out of NATO, which may have broad macro implications.",Negative

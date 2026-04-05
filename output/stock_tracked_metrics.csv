@@ -1,0 +1,11 @@
+id,company_id,metric_id,msg_timestamp,exec_timestamp,msg_summary,metric_status
+1,6,5,2026-04-02 18:09:41,2026-04-03 12:04:01,Bank of India Q4 Business Update: Global Business up 14.53% YoY,Achieved
+2,5,4,2026-04-02 18:32:25,2026-04-03 12:04:01,IndiGo February market share at 63.1% vs 63.6% in January,Negative
+3,8,7,2026-04-04 11:55:03,2026-04-04 14:36:51,"CASA ratio at 49.8% as of March 31, 2026",Achieved
+4,7,6,2026-04-04 11:58:52,2026-04-04 14:36:51,"Retail loan book grows to ~₹1,19,550 crores, up 26% Y-O-Y",Positive
+5,9,8,2026-04-04 11:56:17,2026-04-04 14:36:51,Q4 silver production up 11% QoQ,Positive
+6,6,5,2026-04-05 09:31:14,2026-04-05 10:36:03,Bank of India global business up 14.5% yoy to ₹16.98 lakh cr,Achieved
+7,11,10,2026-04-05 09:31:14,2026-04-05 10:36:03,Indian Bank total business up 13.1% to ₹14.98 lakh cr,Achieved
+8,7,6,2026-04-04 11:58:52,2026-04-05 10:36:03,"L&T Finance retail loan book grows to ~₹1,19,550 crores, up 26% y-o-y",Positive
+9,11,10,2026-04-05 11:26:07,2026-04-05 12:19:20,Indian railways approves rs 398.36 crores optical fibre cable backbone project,Positive
+10,5,4,2026-04-05 11:39:54,2026-04-05 12:19:20,Airlines are now cancelling flights as jet fuel shortages spread globally,Negative

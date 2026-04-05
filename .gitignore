@@ -1,0 +1,19 @@
+# API Keys and Secrets
+.env
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Application settings
+.streamlit/
+
+# Extras
+Rough/

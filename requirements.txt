@@ -1,0 +1,9 @@
+telethon
+python-dotenv
+emoji
+requests
+beautifulsoup4
+groq
+streamlit
+pandas
+streamlit-option-menu
